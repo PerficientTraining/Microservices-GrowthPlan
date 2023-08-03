@@ -4,8 +4,8 @@
  <p align="center">Build, implement, and scale microservices with Spring Boot 2 and Spring Cloud</p>
 </p>
 
-### _🧑‍💻Created by -> 
-### [Brayan Steven Burgos Delgado](https://www.linkedin.com/in/brayan-steven-burgos-delgado-21a9a0178/)_
+### _🧑‍💻Created by 
+### [Brayan Steven Burgos Delgado](https://www.linkedin.com/in/brayan-steven-burgos-delgado-21a9a0178/)
 ### [Juan Gil Vargas](https://www.linkedin.com/in/camilo544/)
 	
 
